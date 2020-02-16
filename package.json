@@ -1,0 +1,33 @@
+{
+  "name": "myMusic",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dragon-long-png/myMusic.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dragon-long-png/myMusic/issues"
+  },
+  "homepage": "https://github.com/dragon-long-png/myMusic#readme",
+  "description": "",
+  "devDependencies": {
+    "autoprefixer": "^9.7.3",
+    "gulp": "^3.9.1",
+    "gulp-clean-css": "^4.2.0",
+    "gulp-connect": "^5.7.0",
+    "gulp-htmlclean": "^2.7.22",
+    "gulp-imagemin": "^6.2.0",
+    "gulp-less": "^4.0.1",
+    "gulp-postcss": "^8.0.0",
+    "gulp-strip-debug": "^3.0.0",
+    "gulp-uglify": "^3.0.2",
+    "gulp-util": "^3.0.8"
+  }
+}
